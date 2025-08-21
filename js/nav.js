@@ -1,3 +1,6 @@
+
+
+
 document.querySelector('.cross').style.display='none';
 document.querySelector('.hamberger').addEventListener("click",()=>{
     document.querySelector('.aside').classList.toggle('sidebarGo')
